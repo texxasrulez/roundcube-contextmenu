@@ -1,8 +1,5 @@
 <?php
-/* Author: Bojidar Harizanov */
-
-$labels = [];
-$labels['collapseall'] = 'Сгъни всички папки';
-$labels['expandall'] = 'Разгърни всички папки';
-
-$messages = [];
+$labels = array();
+$labels['collapseall'] = 'Свиване на всички папки';
+$labels['expandall'] = 'Разширяване на всички папки';
+?>

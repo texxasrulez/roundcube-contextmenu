@@ -1,8 +1,5 @@
 <?php
-/* Author: Jonas Nasholm */
-
-$labels = [];
-$labels['collapseall'] = 'Dölj alla kataloger';
-$labels['expandall'] = 'Visa alla kataloger';
-
-$messages = [];
+$labels = array();
+$labels['collapseall'] = 'Dölj alla mappar';
+$labels['expandall'] = 'Expandera alla mappar';
+?>

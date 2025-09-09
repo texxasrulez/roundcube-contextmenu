@@ -1,8 +1,5 @@
 <?php
-/* Author: Massimiliano Adamo */
-
-$labels = [];
-$labels['collapseall'] = 'Compatta tutte le cartelle';
-$labels['expandall'] = 'Espandi tutte le cartelle';
-
-$messages = [];
+$labels = array();
+$labels['collapseall'] = 'Chiudere tutte le cartelle';
+$labels['expandall'] = 'Espandere tutte le cartelle';
+?>

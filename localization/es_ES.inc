@@ -1,8 +1,5 @@
 <?php
-/* Author: Daniel López */
-
-$labels = [];
-$labels['collapseall'] = 'Compactar todas las carpetas';
-$labels['expandall'] = 'Expandir todas las carpetas';
-
-$messages = [];
+$labels = array();
+$labels['collapseall'] = 'Contraer todas las carpetas';
+$labels['expandall'] = 'Desplegar todas las carpetas';
+?>

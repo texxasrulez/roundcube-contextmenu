@@ -1,8 +1,5 @@
 <?php
-/* Author: thomasysliu */
-
-$labels = [];
-$labels['collapseall'] = '全部收起';
-$labels['expandall'] = '全部展開';
-
-$messages = [];
+$labels = array();
+$labels['collapseall'] = '折叠所有文件夹';
+$labels['expandall'] = '展开所有文件夹';
+?>

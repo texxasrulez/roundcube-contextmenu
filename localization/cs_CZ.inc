@@ -1,8 +1,5 @@
 <?php
-/* Author: Martin Frajdl, et al. */
-
-$labels = [];
+$labels = array();
 $labels['collapseall'] = 'Sbalit všechny složky';
 $labels['expandall'] = 'Rozbalit všechny složky';
-
-$messages = [];
+?>

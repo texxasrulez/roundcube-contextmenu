@@ -1,8 +1,5 @@
 <?php
-/* Author: Németh János */
-
-$labels = [];
-$labels['collapseall'] = 'Összes összecsukása';
-$labels['expandall'] = 'Összes kibontása';
-
-$messages = [];
+$labels = array();
+$labels['collapseall'] = 'Összes mappa összecsukása';
+$labels['expandall'] = 'Minden mappa kibontása';
+?>

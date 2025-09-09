@@ -1,8 +1,5 @@
 <?php
-/* Author: */
-
-$labels = [];
-$labels['collapseall'] = 'Reduire les dossiers';
-$labels['expandall'] = 'Developper les dossiers';
-
-$messages = [];
+$labels = array();
+$labels['collapseall'] = 'Réduire tous les dossiers';
+$labels['expandall'] = 'Développer tous les dossiers';
+?>

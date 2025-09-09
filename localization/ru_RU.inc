@@ -1,8 +1,5 @@
 <?php
-/* Author: Sergey Basov */
-
-$labels = [];
+$labels = array();
 $labels['collapseall'] = 'Свернуть все папки';
 $labels['expandall'] = 'Развернуть все папки';
-
-$messages = [];
+?>
